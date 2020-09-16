@@ -45,5 +45,6 @@
         "gulp-sass": "4.1.0",
         "gulp-uglify": "3.0.2",
         "merge-stream": "2.0.0"
-    }
+    },
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
